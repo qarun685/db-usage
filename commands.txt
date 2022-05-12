@@ -1,3 +1,4 @@
 cl scr - clear console
 alter user user_name account unlock; - unlock user
 alter user user_name account lock; - lock user
+alter user user_name identified by new_passord; - change user password
