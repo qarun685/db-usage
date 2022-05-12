@@ -1,6 +1,7 @@
 cl scr - clear console
 connect user_name - connect
 create user user_name identified by user_password; - create user
+grant all privileges to user_name; - grant all privileges
 alter user user_name account unlock; - unlock user
 alter user user_name account lock; - lock user
 alter user user_name identified by new_passord; - change user password
