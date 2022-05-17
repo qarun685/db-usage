@@ -1,1 +1,1 @@
-
+ctrl+shift+f - format sql
